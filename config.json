@@ -1,0 +1,150 @@
+{
+    "version": "1.2.14",
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "NOTIFICATION": true,
+    "language": "vi",
+    "notiGroup": false,
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "UPTIME": 1,
+    "ACCESSTOKEN": "EAAD6V7os0gcBOzEoNXWJkErkisHLZAqLPM5XMF6afBPZA96xblUFPrKVEmjS0Tra6CG8A5I2ZAZAwjm5qZAxCjgZAPKyYsJzOPGNbXQ1MbafPr4JmYNHYdduSbxrpwZBkHHZAdqqJ4mdepU6bjvFVKb4xMucvrFzHbb1MaPJWyU609YyYtSHUozEF71XP9oZBZCgZDZD",
+    "BOTNAME": "Pj-Lunar🌙",
+    "AMDIN_NAME": "Lương Trường Khôi",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/Khoi.Meta",
+    "MESSENGER_ADMIN": "m.me/Khoi.Meta",
+    "TELEGRAM_ADMIN": "t.me/Trkhoi_Media",
+    "ZALO_ADMIN": "0345451805",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100018277053087"
+    ],
+    "NDH": [
+        "100018277053087"
+    ],
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21"
+    },
+    "autoCleanCache": {
+        "Enable": true,
+        "CachePath": "./modules/commands/cache",
+        "AllowFileExtension": [
+            ".png",
+            ".jpg",
+            ".jpeg",
+            ".mp4",
+            ".mp3",
+            ".m4a",
+            ".ttf",
+            ".gif"
+        ]
+    },
+    "DATABASE": {
+        "sqlite": {
+            "storage": "antist.sqlite"
+        }
+    },
+    "DESIGN": {
+        "Theme": "rainbow",
+        "Admin": "V.tuan",
+        "Setup": {
+            "Theme": "Mày có thể dùng các Theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "NPM_FCA": "fca-horizon-remastered",
+    "configApi": {
+        "link": [
+            "https://www.nguyenmanh.name.vn"
+        ],
+        "key": [
+            "MDongVip_6886904368",
+            "x66MGQ25",
+            "Ky5jfsLB"
+        ],
+        "domain": "https://apibot.pmd06.repl.co",
+        "keyApi": "MDongVip_6886904368"
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "cavee": {
+        "cooldownTime": 100000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 1000000
+    },
+    "kiemtien": {
+        "cooldownTime": 1800000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 90
+        }
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "log": {
+        "enable": true
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 180
+    },
+    "farm": {
+        "cooldownTime": 300000
+    },
+    "chuirieng": {
+        "spamDelay": 2
+    },
+    "kicktag": {
+        "kickTagDelay": 2
+    },
+    "spam": {
+        "spamDelay": 2
+    },
+    "spamping": {
+        "spamDelay": 2
+    },
+    "spampri": {
+        "spamDelay": 2
+    },
+    "spamregbox": {
+        "spamDelay": 2
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    }
+}
